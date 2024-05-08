@@ -3,7 +3,7 @@
 const data = [
   {
     id: 1,
-    image:"../../../Assest/e-commerce.png",
+    image:"../.././../dist/assets/e-commerce.jpg",
     title: "E-commerce",
     desc: "This is an E-commerce with the platzi api",
     tech1: "React & vite",
@@ -13,7 +13,7 @@ const data = [
   },
   {
     id: 2,
-    image:"../../../Assest/image-of-nasa.png",
+    image:"../../../dist/assets/image-of-nasa.jpg",
     title: "Nasa",
     desc: "This is the Nasa image of the day",
     tech1: "React & vite",
@@ -23,7 +23,7 @@ const data = [
   },
   {
     id: 3,
-    image:"../../../Assest/search-gifts.png" ,
+    image:"../../../dist/assets/search-gifts.jpg" ,
     title: "Gifts app",
     desc: "Find your favorite gift",
     tech1: "React & vite",
@@ -34,7 +34,7 @@ const data = [
 
   {
     id: 4,
-    image:"../../../Assest/english-page.png" ,
+    image:"../../../dist/assets/english-page.jpg" ,
     title: "Responsive web site",
     desc: "Landing page",
     tech1: "HTML 5",
@@ -44,7 +44,7 @@ const data = [
   },
   {
     id: 5,
-    image:"../../../Assest/testoflove.png",
+    image:"../../../dist/assets/testoflove.jpg",
     title: "Test of love",
     desc: "This is an amazing responsive play",
     tech1: "React",
