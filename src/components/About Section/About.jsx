@@ -1,5 +1,5 @@
 import { FaCloudDownloadAlt } from "react-icons/fa";
-import photo from '../../../Assest/my-photo.jpg';
+import photo from '../../../public/my-photo.jpg';
 import './style.css';
 
 const About = () =>{
