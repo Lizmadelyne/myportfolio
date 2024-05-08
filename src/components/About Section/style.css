@@ -1,0 +1,4 @@
+
+.about::before{
+    clip-path: circle(50% at 42% 70%);
+}
