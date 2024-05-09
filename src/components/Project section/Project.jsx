@@ -3,7 +3,7 @@
 const data = [
   {
     id: 1,
-    image:"../.././../public/e-commerce-shoppi.jpg",
+    image:"../../../public/e-commerce-shoppi.jpg",
     title: "E-commerce",
     desc: "This is an E-commerce with the platzi api",
     tech1: "React & vite",
